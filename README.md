@@ -1,5 +1,7 @@
 # mergeJS
 
+<img width="256" alt="MergeJS" src="https://user-images.githubusercontent.com/90176103/208267918-ea23639f-cf7f-4ad4-ab49-e041c6ddbbbe.png">
+
 ## How to use:
 
 1. Create a container, style it as you please (DO NOT ADD A BACKGROUND COLOR)
@@ -25,3 +27,4 @@
 ### HINT:
 
 Check out the example repo https://github.com/andreasdelu/mergeJS-example
+
