@@ -1,0 +1,19 @@
+{
+	"name": "delu-mergejs",
+	"version": "1.0.0",
+	"description": "Adds a merge-effect to html elements",
+	"main": "mergeJS.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/andreasdelu/mergeJS.git"
+	},
+	"author": "Delu",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/andreasdelu/mergeJS/issues"
+	},
+	"homepage": "https://github.com/andreasdelu/mergeJS#readme"
+}
